@@ -1,4 +1,9 @@
-# GasOnLine
+<img src="https://uploaddeimagens.com.br/images/003/197/768/original/g%C3%A1s_online_png.png?1618521989" alt="GasOnLine" title="Clique para ampliar">
+  <p align="center"> 
+    <b>Logo</b> 
+  </p> 
+</img>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;GasOnLine é um sistema online para gerenciamento de deposito de gás, auxiliando nos processos de compra, venda e controle de estoque.
 
