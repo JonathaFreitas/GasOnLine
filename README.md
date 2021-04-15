@@ -22,7 +22,7 @@
 </img>
 
 ### 2. Modelo de banco de dados
-&nbsp;&nbsp;&nbsp;&nbsp;A **figura 2** representa graficamente as entidades e seus relacionamentos com as de mais entidades do banco de dados
+&nbsp;&nbsp;&nbsp;&nbsp;A **figura 2** representa graficamente as entidades e seus relacionamentos com as demais entidades do banco de dados
 
 <img src="https://uploaddeimagens.com.br/images/003/197/354/original/Modelo_Logico.png?1618512571" alt="Diagrama entidade relacionamento" title="Clique para ampliar">
   <p align="center"> 
@@ -35,14 +35,10 @@
 
  - **Java** - Linguagem de programação utilizada para o desenvolvimento do sistema.
  
- - **Spring Framework** - Frameworks responsável pela arquitetura MVC e seguranças com **BCrypt** no projeto. 
+ - **Angular** - Frameworks de codigo aberto para contrução do frontend. 
 
- - **JPA/Hibernate** - Utilizada a especificação do **JPA**  para persistência dos dados utilizando a implementação do **Hibernate**.
- 
  - **HTML 5 e CSS3** - Usada para codificação e estilização do projeto utilizando também a biblioteca CSS do **Bootstrap**.
  
- - **Javascript e jQuery** - Usada para interatividade com o usuário e controles dos dados do sistema.
-
  - **Maven** - Para arquitetura inicial de projeto e controle de dependências.
 
  - **Postgresql** - Linguagem de banco de dados utilizada.
